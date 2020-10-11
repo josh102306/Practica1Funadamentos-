@@ -1,4 +1,6 @@
 Nombre 
 Edad 
 Mejores juegos
-Canciones 
+Canciones favoritas 
+Mejor portero de la historia 
+Equipo de futbol español favorito 
