@@ -1,0 +1,4 @@
+Nombre 
+Edad 
+Mejores juegos
+Canciones 
